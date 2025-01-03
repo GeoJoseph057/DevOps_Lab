@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let pageTitle = document.querySelector("title");
     let headerTitle = document.querySelector(".header-title").innerText;
     if (pageTitle && headerTitle) {
-        pageTitle.textContent = headerTitle + " | Marvel Fan [I love you 3000]";
+        pageTitle.textContent = headerTitle + " | Marvel Fan Forever";
     }
 });
 
